@@ -3,5 +3,3 @@ Git is free software distributed under the GPL.
 Git has a mutable index called stage.
 Git has a mutable index called stage.
 Git has a mutable index called stage - master.
-Git has a mutable index called stage -- dev.
-Git has a mutable index called stage.
