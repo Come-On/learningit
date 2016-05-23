@@ -5,3 +5,4 @@ Git is free software distributed under the GPL.
 Git is free software distributed under the GPL - master.
 Git is free software distributed under the GPL1.
 Git is free software distributed under the GPL2.
+Fix the test issue 123.
