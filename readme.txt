@@ -10,4 +10,4 @@ Git is free software distributed under the GPL --- user2.
 Git is free software distributed under the GPL --- Fix the test issue 222222.
 Git is free software distributed under the GPL --- Fix the test issue xxxx.
 
-Git is free software distributed under the GPL --- Fix the test issue xxxxasdfasdf.
+Git is free software distributed under the GPL --- Fix the test issue.
