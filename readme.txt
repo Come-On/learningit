@@ -1,13 +1,2 @@
 Git is a distributed version control system.
 Git is free software distributed under the GPL.
-Git is free software distributed under the GPL.
-Git is free software distributed under the GPL --- test.
-Git is free software distributed under the GPL --- user1.
-Git is free software distributed under the GPL --- user1.
-Git is free software distributed under the GPL --- test.
-Git is free software distributed under the GPL --- user1.
-Git is free software distributed under the GPL --- user2.
-Git is free software distributed under the GPL --- Fix the test issue 222222.
-Git is free software distributed under the GPL --- Fix the test issue xxxx.
-Git is free software distributed under the GPL --- Fix the test issue.
-Git is free software distributed under the GPL - test1.
